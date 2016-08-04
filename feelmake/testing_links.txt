@@ -1,0 +1,78 @@
+
+
+Preconditions:
+  go to feelmake.com 
+   
+Test Steps:  
+   
+  1.See page "HOME"
+  1. Go to link to "ANIMATION  AND GRAPHICS" 
+  1. See page "ANIMATION  AND GRAPHICS"                                   
+  2. Go to link to "3D GRAPHICS"
+  2. See page "3D GRAPHICS"                              
+  3. Go to link to "VIDEO"
+  3. See page "VIDEO"                                    
+  4. Go to link to "PORTFOLIO" 
+  4. See page "PORTFOLIO"                               
+  5. Go to link to "0 800 750 508 FOR FREE IN UKRAINE" 
+  5. See FEEDBACK'S form 
+  5. Close thise form
+  5. The form is closed       
+  6. Go to link to "MENU"
+  6. See page where leftside see list links where the open link "PORTFOLIO" (???) and two links at the top right "RU" and "EN"
+
+
+  7.Choose link "ABOUT US" and сlick
+  7. See page where leftside see list links where the open link "HOME" and two links at the top right "RU" and "EN" plus three links 
+     "COMPANY","COMMENTS", "CLIENTS"                         
+  8. Go to link to "Company"
+  8. See page "COMPANY"                                  
+  9. GO to link to "MENU"
+  9. See page "HOME" where the opened link "ABOUT US" and link "Company"
+  10. Choose link "Comments" and go to there  
+  10. See page "COMMENTS"                
+  11. Back link "MENU" and choose link "Clients" 
+  11. See page "CLIENTS"
+  12. Go back to link "MENU"
+  12. See page "HOME"
+
+                                  
+  13.Choose link "Services"
+  13.See menu with three links "Animation and graphics", "3D Graphics", "Video"
+  13 Go to link to "ANIMATION  AND GRAPHICS"
+  13.See page "ANIMATION  AND GRAPHICS"
+  13.Go back to link "MENU" 
+  13.See page "HOME" with link's list where at rightside in list of links the link " 3D Graphics" is written in two lines (BUG !!!)
+  13.Go to link to "3D GRAPHICS" 
+  13.See page "3D GRAPHICS"
+  13.Go back to link "MENU"
+  13 See page "HOME" with link's list where at leftside in list of links the link "Services" and link "3D Graphics" at rightside opened
+  13.Go to link to "VIDEO" 
+  13.See page "VIDEO"
+  13.Go back to link "MENU"
+  13.See page "HOME" with links
+
+
+  13. Choose link "PORTFOLIO" 
+  13. See four links "ALL", "3D Graphics", "Animation and graphics", "Video"                                
+  14. Choose link "All" 
+  14. See page "PORTFOLIO" (????)                                      
+  15. Go back to link "MENU" 
+  15. See page "HOME" where link "PORTFOLIO" is opened                                 
+  16. Choose link "3D Graphics" 
+  16. See page "3D Graphics"
+  17. Go back to link "MENU"                                  
+  17. See page "HOME" with link's list where at rightside in list of links the link " 3D Graphics" moved out to the right (BUG!!!)
+  18. Choose link "Animation and graphics"
+  18. See page "ANIMATION AND GRAPHICS"
+  19. Go back to link "MENU"
+  19. See "HOME" page where "PORTFOLIO" is opened and at rightside in the link's list the link "Animation and graphics" is written in two lines (BUG !!!)
+  20. Choose link "Video" and go to there
+  20. See page "Video"
+  21. Go back to link "MENU"
+  21. See page "HOME" where link "PORTFOLIO" and link "video" opened
+  22. Choose link "CONTACTS"
+  22. See page "CONTACTS" with FEEDBACK'S form at rightside 
+
+  Postconditions:
+    exit from feelmake.com
